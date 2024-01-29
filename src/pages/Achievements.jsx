@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 // import { arrow, play } from '../assets/icons';
-import CTA from '../components/cta';
+import CTA from '../components/CTA';
 
 const Achievments = () => {
   return (
